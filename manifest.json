@@ -1,7 +1,7 @@
 {
     "name": "Dick doodler",
-    "short_name": "Dick doodler",
-    "start_url": "/index.html",
+    "short_name": "D&D",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#FFE9D2",
     "theme_color": "#FFE1C4",
